@@ -1,10 +1,10 @@
 ## Virtual-Assistant
 This Virtual Assistant is designed to perform tasks through voice or text input. Its current features include:
-
-Weather updates: Get real-time weather information.
-Cricket scores: Check the latest cricket match scores.
-Email and WhatsApp messaging: Send emails and WhatsApp messages easily.
-News updates: Stay informed with current news.
+<ul>
+<li>Weather updates: Get real-time weather information.
+<li>Cricket scores: Check the latest cricket match scores.
+<li>Email and WhatsApp messaging: Send emails and WhatsApp messages easily.
+<li>News updates: Stay informed with current news.
 <ul>
 <li>Use the Requirements text file for required module list. 
 <li>Run the main_v2.1 file for code execution.
