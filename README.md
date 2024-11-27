@@ -1,7 +1,10 @@
 ## Virtual-Assistant
-A Virtual Assistant that can help in telling weather cricket scores and other tasks through voice or text input made by 
-Alwin Sebastian, Kumar Sunny, Shashank Singh,  Vaisakh N.P, Tej Akaash, Chandrahas Reddy Gurram.
-This assistant has features like checking the weather,sending mail,whatsapp messages, cricket scores, current news,etc. More features are being developed so stay tuned.
+This Virtual Assistant is designed to perform tasks through voice or text input. Its current features include:
+
+Weather updates: Get real-time weather information.
+Cricket scores: Check the latest cricket match scores.
+Email and WhatsApp messaging: Send emails and WhatsApp messages easily.
+News updates: Stay informed with current news.
 <ul>
 <li>Use the Requirements text file for required module list. 
 <li>Run the main_v2.1 file for code execution.
